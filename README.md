@@ -2,8 +2,6 @@
 
 Официальный репозиторий релизов **InvestProfile** — офлайн-приложения для отслеживания инвестиционного портфеля на Московской бирже (MOEX).
 
-> Исходный код: [grave42/InvestProfile](https://github.com/grave42/InvestProfile)
-
 ---
 
 ## Что такое InvestProfile
